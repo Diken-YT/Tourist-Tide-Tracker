@@ -8,7 +8,7 @@
 // 
 
 const char* ssid = "Yayasan Al-Hakim";
-const char* password = "86868690";
+const char* password = "*******";
 #define API_KEY "AIzaSyB7YQasekvh04enGKnALJ0eFF-iVevKFp0"
 #define DATABASE_URL "https://nearbytourisdensity-sensors-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
