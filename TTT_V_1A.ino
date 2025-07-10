@@ -8,8 +8,8 @@
 
 const char* ssid = "State B";
 const char* password = "NagariTambang";
-#define API_KEY "AIzaSyB7YQasekvh04enGKnALJ0eFF-iVevKFp0"
-#define DATABASE_URL "https://nearbytourisdensity-sensors-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY "-iVevKFp0"
+#define DATABASE_URL "/"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
